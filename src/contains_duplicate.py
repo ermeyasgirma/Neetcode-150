@@ -10,3 +10,9 @@ class Solution:
             seen.add(n)
         
         return False
+    
+
+'''
+Add each element to a set while iterating through the list. 
+If an element is already in the set, return True (duplicate found).
+'''
